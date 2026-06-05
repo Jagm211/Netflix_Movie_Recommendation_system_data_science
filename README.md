@@ -2,9 +2,6 @@
 
 A hybrid movie recommendation engine built using Content-Based Filtering and Collaborative Filtering techniques on the MovieLens dataset.
 
-## 🚀 Live Demo
-> Google Colab Notebook — [Open in Colab](#)
-
 ---
 
 ## 📌 Overview
